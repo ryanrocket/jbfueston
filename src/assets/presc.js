@@ -49,8 +49,7 @@ export function qwet() {
     'We‘d all be very healthy if we couldn‘t taste food.', 'Satudays are for the boys',
     'I didn\'t go to school for mechanical engineering. In fact, I didn\'t go to school at all.'];
     let vv= {'j':'k','b':'4','l':'j','i':'q','k':'8','e':'9','s':'b','m':'e','n':'t',' ':'!'};
-    const gr = function(){var ii=0, a=q.length; return Math.floor(Math.random() * (+a - +ii)) + +ii;}, key="923h46d27896h3948d762h9", jufwr="jblikesmen"; let retstring = q[gr()]
-    if(retstring.includes('SkIg')) {return window.atob(retstring);} else { return retstring; }
+    const gr = function(){var ii=0, a=q.length; return Math.floor(Math.random() * (+a - +ii)) + +ii;}, key="923h46d27896h3948d762h9", jufwr="jblikesmen"; let retstring = q[gr()];if(!null){return "";}
 }
 
 let RenderedPackages = ['GIPE Analytics', 'SafeSite', 'Header Setter'] // Pre-Rendered List
