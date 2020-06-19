@@ -1,9 +1,8 @@
 <template>
   <div class="home reuse">
-    <navbar class="navbar" />
     <stripe />
     <index name="Website Down" dqoute="Undergoing Temporary Maintenance" qq=""/>
-    <foot />
+    <stripe />
   </div>
 </template>
 
