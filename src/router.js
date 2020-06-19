@@ -18,12 +18,12 @@ export default new Router({
     {
       path: '/about',
       name: 'About',
-      component: About
+      component: Home
     },
     {
       path: '/memes',
       name: 'Memes',
-      component: Memes
+      component: Home
     }
   ]
 })
